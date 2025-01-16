@@ -43,7 +43,7 @@ header img {
 
 @media (max-width: 768px) {
   header img {
-    transform: translate(-20%, -30%);
+    transform: translate(-20%, -38%);
   }
 }
 
@@ -304,7 +304,7 @@ header nav .wrapper ul li.socials p {
   padding: 60px 0;
   text-align: center;
   gap: 20px; /* Space between items */
-  width: 80%;
+  width: 90%;
   box-sizing: border-box;
   margin: auto;
 }
@@ -344,7 +344,7 @@ header nav .wrapper ul li.socials p {
   font-size: 24px;
   margin-bottom: 10px;
   margin-top: 40px;
-  text-align: left;
+  text-align: center;
   text-indent: -10%;
   color: #004237;
 }
@@ -364,7 +364,7 @@ header nav .wrapper ul li.socials p {
 .snack-head {
   font-size: 24px;
   margin-bottom: 10px;
-  text-align: left;
+  text-align: center;
   text-indent: -10%;
   color: #004237;
 }
